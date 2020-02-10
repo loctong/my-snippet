@@ -50,8 +50,8 @@
 					</execution>
 				</executions>
 				<configuration>
-					<excutable>ng</excutable>
-					<workingDirectory>/src/main/resources/frontend/angular-app</workingDirectory>
+					<executable>ng</executable>
+					<workingDirectory>src/main/resources/frontend/angular-app</workingDirectory>
 					<arguments>
 						<argument>build</argument>
 					</arguments>
