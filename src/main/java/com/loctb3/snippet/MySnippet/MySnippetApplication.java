@@ -8,12 +8,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @SpringBootApplication
 public class MySnippetApplication {
 
-	@RequestMapping("/")
-	@ResponseBody
-	String home(){
-		return "Hello world";
-	}
-
 	public static void main(String[] args) {
 		SpringApplication.run(MySnippetApplication.class, args);
 	}
