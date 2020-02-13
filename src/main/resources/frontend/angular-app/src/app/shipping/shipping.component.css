@@ -1,0 +1,11 @@
+.shipping-item{
+  min-width: 400px;
+  max-width: 450px;
+  background: #EEE ;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+
+}
