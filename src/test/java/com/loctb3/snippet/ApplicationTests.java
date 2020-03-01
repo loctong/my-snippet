@@ -1,14 +1,14 @@
-package com.loctb3.snippet.MySnippet;
+package com.loctb3.snippet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MySnippetApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("tesst");
+		System.out.println("test");
 	}
 
 }
