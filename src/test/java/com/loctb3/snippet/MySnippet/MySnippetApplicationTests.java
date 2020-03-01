@@ -8,6 +8,7 @@ class MySnippetApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("tesst");
 	}
 
 }
